@@ -18,7 +18,7 @@ A lightweight and secure pawnshop script for FiveM servers, designed to allow pl
 
 ---
 
-##    How It Works
+##   How It Works
 
 The script is split into two main parts:
 
@@ -65,7 +65,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🔧 Configuration
+##    Configuration
 
 The configuration file allows you to customize:
 
