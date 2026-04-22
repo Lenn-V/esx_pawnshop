@@ -1,24 +1,24 @@
-# 🏪 FiveM Pawnshop Script (ESX)
+#  FiveM Pawnshop Script (ESX)
 
 A lightweight and secure pawnshop script for FiveM servers, designed to allow players to sell items for cash in a clean and immersive way. This resource focuses on **smooth client-side interactions**, while all sensitive logic (such as money handling) is processed **server-side** to prevent abuse and cheating.
 
 ---
 
-## ✨ Features
+##  Features
 
-* 💰 **Sell items for cash**
-* 🧾 **Clean and intuitive menu system**
-* 🕺 **Immersive animations during selling**
-* 🔒 **Secure server-side money handling (anti-cheat friendly)**
-* 🌍 **Built-in translation system (multi-language support)**
-* 🔔 **Discord webhook integration for logging**
-* ⚡ **Optimized and lightweight performance**
-* 🧩 **Fully compatible with ESX (es_extended)**
-* 📦 **Seamless support for ox_lib & ox_inventory**
+*  **Sell items for cash**
+*  **Clean and intuitive menu system**
+*  **Immersive animations during selling**
+*  **Secure server-side money handling (anti-cheat friendly)**
+*  **Built-in translation system (multi-language support)**
+*  **Discord webhook integration for logging**
+*  **Optimized and lightweight performance**
+*  **Fully compatible with ESX (es_extended)**
+*  **Seamless support for ox_lib & ox_inventory**
 
 ---
 
-## 🧠 How It Works
+##    How It Works
 
 The script is split into two main parts:
 
@@ -37,7 +37,7 @@ The script is split into two main parts:
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 Make sure you have the following installed:
 
@@ -47,7 +47,7 @@ Make sure you have the following installed:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Place the resource in your `resources` folder
 2. Add the following to your `server.cfg`:
@@ -69,14 +69,14 @@ Make sure you have the following installed:
 
 The configuration file allows you to customize:
 
-* 💰 Item prices
-* 📍 Pawnshop locations
-* 🌐 Language / translations
-* 🔗 Discord webhook logging
+*  Item prices
+*  Pawnshop locations
+*  Language / translations
+*  Discord webhook logging
 
 ---
 
-## 🔔 Webhooks
+##  Webhooks
 
 The script includes Discord logging for:
 
@@ -87,27 +87,27 @@ The script includes Discord logging for:
 
 ---
 
-## 🌍 Translations
+##  Translations
 
 Easily add or edit languages using the built-in translation system.
 
 ---
 
-## 💬 Support
+##  Support
 
 If you have questions, need help, or found a bug:
 
-👉 Contact on Discord: **lenny0008**
+ Contact on Discord: **lenny0008**
 
 ---
 
-## 📜 License
+##  License
 
-Free to use and modify. Credits are appreciated ❤️
+Free to use and modify. Credits are appreciated 
 
 ---
 
-## 🚀 Planned Updates (Ideas)
+##  Planned Updates (Ideas)
 
 * UI improvements
 * NPC interactions
@@ -116,7 +116,7 @@ Free to use and modify. Credits are appreciated ❤️
 
 ---
 
-## ❤️ Credits
+##  Credits
 
 Made with passion for the FiveM community.
 
