@@ -5,7 +5,7 @@ Config.Debug = false
 
 Config.Locale = GetConvar('esx:locale', 'en')
 
-Config.Webhook = 'https://discord.com/api/webhooks/1496593670517035258/NgfmTBHKWNhqi-Cuul9fLPNt2rggc4M6Od76iL148IX8OP59fuBeTjGGP3XCwfiHJido'
+Config.Webhook = ''
 
 Config.Pawnshops = {
     [1] = {
