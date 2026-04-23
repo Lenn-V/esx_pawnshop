@@ -37,7 +37,7 @@ The script is split into two main parts:
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 Make sure you have the following installed:
 
@@ -47,7 +47,7 @@ Make sure you have the following installed:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Place the resource in your `resources` folder
 2. Add the following to your `server.cfg`:
@@ -65,7 +65,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 The configuration file allows you to customize:
 
